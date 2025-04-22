@@ -9,7 +9,7 @@ export const styles = {
     width: 170,       // Reduza conforme necessário
     height: 90,       // Mantenha a proporção da imagem original
     margin: 30,
-    resizeMode: 'contain' // ⬅️ Garante que a imagem não será cortada
+    resizeMode: 'contain' // Isso garante que a imagem mantenha sua proporção
   },
   img: {
     width: 140,
